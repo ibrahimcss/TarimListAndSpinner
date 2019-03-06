@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarim</string>
+    <string-array name="iller">
+        <item>Adana</item>
+        <item>Malatya</item>
+        <item>Konya</item>
+        <item>Batman</item>
+        <item>Van</item>
+
+    </string-array>
+
+</resources>
